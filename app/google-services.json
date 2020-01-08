@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "447414282449",
+    "firebase_url": "https://gfarm-be0a4.firebaseio.com",
+    "project_id": "gfarm-be0a4",
+    "storage_bucket": "gfarm-be0a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447414282449:android:417ae14adced4ed50bfdf0",
+        "android_client_info": {
+          "package_name": "com.example.dairycattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447414282449-5rbjo0a3fcejvu9mgn45fen2j4hg51b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dairycattle",
+            "certificate_hash": "b886f4382c658f7d404d95fc8a3007dc98c7d719"
+          }
+        },
+        {
+          "client_id": "447414282449-7htf0ad8i42roblnlefteomtcaieb131.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo1yr2iWAROQqtBWKrLY1EnCEGyoVQ3Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447414282449-7htf0ad8i42roblnlefteomtcaieb131.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

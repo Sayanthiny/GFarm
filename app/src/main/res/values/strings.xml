@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DairyCattle</string>
+    <string name="add">add</string>
+
+    <array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>pop</item>
+        <item>Folk</item>
+
+
+    </array>
+</resources>
